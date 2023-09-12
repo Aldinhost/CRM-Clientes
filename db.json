@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Aldo",
+      "empresa": "Empresa1",
+      "email": "aldo@correo.com",
+      "telefono": "102013313",
+      "notas": "Nueva nota (Actualizado)",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 33983913,
+      "email": "josue@correo.com",
+      "empresa": "Empresa3"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 399381983,
+      "email": "miguel@correo.com",
+      "empresa": "Empresa4"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@correo.com",
+      "empresa": "Empresa5"
+    },
+    {
+      "nombre": "Ronaldinho",
+      "empresa": "empresaX",
+      "email": "correo@correox.com",
+      "telefono": "1234567895",
+      "notas": "el cliente está solicitando un ecommerce",
+      "id": 6
+    },
+    {
+      "nombre": "Cristiano Ronaldo",
+      "empresa": "empresaZ",
+      "email": "correo@correoz.com",
+      "telefono": "1234567899",
+      "notas": "El cliente solicita un CRM",
+      "id": 7
+    }
+  ]
+}
